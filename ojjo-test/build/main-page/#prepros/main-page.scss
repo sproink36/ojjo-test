@@ -1,0 +1,16 @@
+@import "/settings/null-style.css";
+@import "/fonts/connect-fonts.css";
+
+@import "/blocks/one-off/first-screen/first-screen.css";
+@import "/blocks/reuse/header/header.css";
+@import "/blocks/reuse/header/_transparent/header_transparent.css";
+
+@import "/blocks/reuse/button/button.css";
+@import "/blocks/reuse/button/_style/button_style_black-white.css";
+
+@import "/blocks/one-off/second-screen/second-screen.css";
+@import "/blocks/sketch/title/title.css";
+
+.wrapper .first-screen{
+    margin-bottom: 110px;
+}

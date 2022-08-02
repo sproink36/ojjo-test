@@ -1,0 +1,33 @@
+@import "/settings/null-style.css";
+@import "/fonts/connect-fonts.css";
+
+body {
+    background-color: antiquewhite;
+}
+
+//----------------HEADER-----------------------------------
+
+//<!--@import "../../../blocks/reuse/header/header.html"-->
+//@import "/blocks/reuse/header/header.css";
+
+//----------------FIRST-SCREEN-----------------------------------
+
+//<!--@import "../../../blocks/one-off/first-screen/first-screen.html"-->
+//@import "/blocks/one-off/first-screen/first-screen.css";
+//@import "/blocks/reuse/header/header.css";
+//@import "/blocks/reuse/header/_transparent/header_transparent.css";
+
+//----------------BUTTON-----------------------------------
+
+//@import "../../../reuse/button/button.html"
+//@import "/blocks/reuse/button/button.css";
+//@import "/blocks/reuse/button/_style/button_style_black-white.css";
+//@import "/blocks/reuse/button/_style/button_style_white-black.css";
+
+//----------------SECOND-SCREEN-----------------------------------
+
+@import "/blocks/one-off/second-screen/second-screen.css";
+
+//----------------TITLE-----------------------------------
+
+@import "/blocks/sketch/title/title.css";

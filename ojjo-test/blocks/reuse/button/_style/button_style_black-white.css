@@ -1,0 +1,8 @@
+.button {
+    background-color: #333333;
+    border-color:#FFFFFF;
+}
+
+.button .button__text {
+    color: aliceblue;
+}

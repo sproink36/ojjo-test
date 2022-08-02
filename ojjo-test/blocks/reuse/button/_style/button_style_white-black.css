@@ -1,0 +1,8 @@
+.button {
+    background-color: #FFFFFF;
+    border-color:#333333;
+}
+
+.button .button__text {
+    color: #333333;
+}

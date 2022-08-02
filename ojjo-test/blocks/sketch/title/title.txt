@@ -1,0 +1,4 @@
+<div class="title">
+	<div class="title__top"></div>
+	<div class="title__bottom"></div>
+</div>
